@@ -1,0 +1,648 @@
+Map 1x1, period: 2
+0, 1, 0
+Map 1x2, period: 2
+0, 2, 0
+Map 1x3, period: 2
+0, 3, 0
+Map 1x4, period: 2
+0, 4, 0
+Map 1x5, period: 2
+0, 5, 0
+Map 1x6, period: 2
+0, 6, 0
+Map 1x7, period: 2
+0, 7, 0
+Map 1x8, period: 2
+0, 8, 0
+Map 1x9, period: 2
+0, 9, 0
+Map 1x10, period: 2
+0, 10, 0
+Map 1x11, period: 2
+0, 11, 0
+Map 1x12, period: 2
+0, 12, 0
+Map 1x13, period: 2
+0, 13, 0
+Map 1x14, period: 2
+0, 14, 0
+Map 1x15, period: 2
+0, 15, 0
+Map 1x16, period: 2
+0, 16, 0
+Map 1x17, period: 2
+0, 17, 0
+Map 1x18, period: 2
+0, 18, 0
+Map 1x19, period: 2
+0, 19, 0
+Map 1x20, period: 2
+0, 20, 0
+Map 1x21, period: 2
+0, 21, 0
+Map 1x22, period: 2
+0, 22, 0
+Map 1x23, period: 2
+0, 23, 0
+Map 1x24, period: 2
+0, 24, 0
+Map 1x25, period: 2
+0, 25, 0
+Map 1x26, period: 2
+0, 26, 0
+Map 1x27, period: 2
+0, 27, 0
+Map 1x28, period: 2
+0, 28, 0
+Map 1x29, period: 2
+0, 29, 0
+Map 1x30, period: 2
+0, 30, 0
+Map 1x31, period: 2
+0, 31, 0
+Map 1x32, period: 2
+0, 32, 0
+Map 1x33, period: 2
+0, 33, 0
+Map 1x34, period: 2
+0, 34, 0
+Map 1x35, period: 2
+0, 35, 0
+Map 1x36, period: 2
+0, 36, 0
+Map 1x37, period: 2
+0, 37, 0
+Map 1x38, period: 2
+0, 38, 0
+Map 1x39, period: 2
+0, 39, 0
+Map 1x40, period: 2
+0, 40, 0
+Map 1x41, period: 2
+0, 41, 0
+Map 1x42, period: 2
+0, 42, 0
+Map 1x43, period: 2
+0, 43, 0
+Map 1x44, period: 2
+0, 44, 0
+Map 1x45, period: 2
+0, 45, 0
+Map 1x46, period: 2
+0, 46, 0
+Map 1x47, period: 2
+0, 47, 0
+Map 1x48, period: 2
+0, 48, 0
+Map 1x49, period: 2
+0, 49, 0
+Map 1x50, period: 2
+0, 50, 0
+Map 1x51, period: 2
+0, 51, 0
+Map 1x52, period: 2
+0, 52, 0
+Map 1x53, period: 2
+0, 53, 0
+Map 1x54, period: 2
+0, 54, 0
+Map 1x55, period: 2
+0, 55, 0
+Map 1x56, period: 2
+0, 56, 0
+Map 1x57, period: 2
+0, 57, 0
+Map 1x58, period: 2
+0, 58, 0
+Map 1x59, period: 2
+0, 59, 0
+Map 1x60, period: 2
+0, 60, 0
+Map 1x61, period: 2
+0, 61, 0
+Map 1x62, period: 2
+0, 62, 0
+Map 1x63, period: 2
+0, 63, 0
+Map 1x64, period: 2
+Map 2x1, period: 4
+Map 2x2, period: 8
+Map 2x3, period: 8
+Map 2x4, period: 8
+Map 2x5, period: 8
+Map 2x6, period: 8
+Map 2x7, period: 8
+Map 2x8, period: 8
+Map 2x9, period: 8
+Map 2x10, period: 8
+Map 2x11, period: 8
+Map 2x12, period: 8
+Map 2x13, period: 8
+Map 2x14, period: 8
+Map 2x15, period: 8
+Map 2x16, period: 8
+Map 2x17, period: 8
+Map 2x18, period: 8
+Map 2x19, period: 8
+Map 2x20, period: 8
+Map 2x21, period: 8
+Map 2x22, period: 8
+Map 2x23, period: 8
+Map 2x24, period: 8
+Map 2x25, period: 8
+Map 2x26, period: 8
+Map 2x27, period: 8
+Map 2x28, period: 8
+Map 2x29, period: 8
+Map 2x30, period: 8
+Map 2x31, period: 8
+Map 2x32, period: 8
+Map 2x33, period: 8
+Map 2x34, period: 8
+Map 2x35, period: 8
+Map 2x36, period: 8
+Map 2x37, period: 8
+Map 2x38, period: 8
+Map 2x39, period: 8
+Map 2x40, period: 8
+Map 2x41, period: 8
+Map 2x42, period: 8
+Map 2x43, period: 8
+Map 2x44, period: 8
+Map 2x45, period: 8
+Map 2x46, period: 8
+Map 2x47, period: 8
+Map 2x48, period: 8
+Map 2x49, period: 8
+Map 2x50, period: 8
+Map 2x51, period: 8
+Map 2x52, period: 8
+Map 2x53, period: 8
+Map 2x54, period: 8
+Map 2x55, period: 8
+Map 2x56, period: 8
+Map 2x57, period: 8
+Map 2x58, period: 8
+Map 2x59, period: 8
+Map 2x60, period: 8
+Map 2x61, period: 8
+Map 2x62, period: 8
+Map 2x63, period: 8
+Map 2x64, period: 8
+Map 3x1, period: 6
+Map 3x2, period: 16
+0, 1, 0
+Map 3x3, period: 22
+0, 2, 0
+Map 3x4, period: 28
+0, 3, 0
+Map 3x5, period: 34
+0, 4, 0
+Map 3x6, period: 40
+0, 5, 0
+Map 3x7, period: 46
+0, 6, 0
+Map 3x8, period: 52
+0, 7, 0
+Map 3x9, period: 58
+0, 8, 0
+Map 3x10, period: 64
+0, 9, 0
+Map 3x11, period: 70
+0, 10, 0
+Map 3x12, period: 76
+0, 11, 0
+Map 3x13, period: 82
+0, 12, 0
+Map 3x14, period: 88
+0, 13, 0
+Map 3x15, period: 94
+0, 14, 0
+Map 3x16, period: 100
+0, 15, 0
+Map 3x17, period: 106
+0, 16, 0
+Map 3x18, period: 112
+0, 17, 0
+Map 3x19, period: 118
+0, 18, 0
+Map 3x20, period: 124
+0, 19, 0
+Map 3x21, period: 130
+0, 20, 0
+Map 3x22, period: 136
+0, 21, 0
+Map 3x23, period: 142
+0, 22, 0
+Map 3x24, period: 148
+0, 23, 0
+Map 3x25, period: 154
+0, 24, 0
+Map 3x26, period: 160
+0, 25, 0
+Map 3x27, period: 166
+0, 26, 0
+Map 3x28, period: 172
+0, 27, 0
+Map 3x29, period: 178
+0, 28, 0
+Map 3x30, period: 184
+0, 29, 0
+Map 3x31, period: 190
+0, 30, 0
+Map 3x32, period: 196
+0, 31, 0
+Map 3x33, period: 202
+0, 32, 0
+Map 3x34, period: 208
+0, 33, 0
+Map 3x35, period: 214
+0, 34, 0
+Map 3x36, period: 220
+0, 35, 0
+Map 3x37, period: 226
+0, 36, 0
+Map 3x38, period: 232
+0, 37, 0
+Map 3x39, period: 238
+0, 38, 0
+Map 3x40, period: 244
+0, 39, 0
+Map 3x41, period: 250
+0, 40, 0
+Map 3x42, period: 256
+0, 41, 0
+Map 3x43, period: 262
+0, 42, 0
+Map 3x44, period: 268
+0, 43, 0
+Map 3x45, period: 274
+0, 44, 0
+Map 3x46, period: 280
+0, 45, 0
+Map 3x47, period: 286
+0, 46, 0
+Map 3x48, period: 292
+0, 47, 0
+Map 3x49, period: 298
+0, 48, 0
+Map 3x50, period: 304
+0, 49, 0
+Map 3x51, period: 310
+0, 50, 0
+Map 3x52, period: 316
+0, 51, 0
+Map 3x53, period: 322
+0, 52, 0
+Map 3x54, period: 328
+0, 53, 0
+Map 3x55, period: 334
+0, 54, 0
+Map 3x56, period: 340
+0, 55, 0
+Map 3x57, period: 346
+0, 56, 0
+Map 3x58, period: 352
+0, 57, 0
+Map 3x59, period: 358
+0, 58, 0
+Map 3x60, period: 364
+0, 59, 0
+Map 3x61, period: 370
+0, 60, 0
+Map 3x62, period: 376
+0, 61, 0
+Map 3x63, period: 382
+0, 62, 0
+Map 3x64, period: 388
+Map 4x1, period: 8
+Map 4x2, period: 16
+Map 4x3, period: 72
+Map 4x4, period: 96
+Map 4x5, period: 96
+Map 4x6, period: 96
+Map 4x7, period: 96
+Map 4x8, period: 96
+Map 4x9, period: 96
+Map 4x10, period: 96
+Map 4x11, period: 96
+Map 4x12, period: 96
+Map 4x13, period: 96
+Map 4x14, period: 96
+Map 4x15, period: 96
+Map 4x16, period: 96
+Map 4x17, period: 96
+Map 4x18, period: 96
+Map 4x19, period: 96
+Map 4x20, period: 96
+Map 4x21, period: 96
+Map 4x22, period: 96
+Map 4x23, period: 96
+Map 4x24, period: 96
+Map 4x25, period: 96
+Map 4x26, period: 96
+Map 4x27, period: 96
+Map 4x28, period: 96
+Map 4x29, period: 96
+Map 4x30, period: 96
+Map 4x31, period: 96
+Map 4x32, period: 96
+Map 4x33, period: 96
+Map 4x34, period: 96
+Map 4x35, period: 96
+Map 4x36, period: 96
+Map 4x37, period: 96
+Map 4x38, period: 96
+Map 4x39, period: 96
+Map 4x40, period: 96
+Map 4x41, period: 96
+Map 4x42, period: 96
+Map 4x43, period: 96
+Map 4x44, period: 96
+Map 4x45, period: 96
+Map 4x46, period: 96
+Map 4x47, period: 96
+Map 4x48, period: 96
+Map 4x49, period: 96
+Map 4x50, period: 96
+Map 4x51, period: 96
+Map 4x52, period: 96
+Map 4x53, period: 96
+Map 4x54, period: 96
+Map 4x55, period: 96
+Map 4x56, period: 96
+Map 4x57, period: 96
+Map 4x58, period: 96
+Map 4x59, period: 96
+Map 4x60, period: 96
+Map 4x61, period: 96
+Map 4x62, period: 96
+Map 4x63, period: 96
+Map 4x64, period: 96
+Map 5x1, period: 10
+Map 5x2, period: 16
+0, 1, 0
+Map 5x3, period: 318
+Map 5x4, period: 624
+0, 1, 0
+Map 5x5, period: 2342
+Map 5x6, period: 4184
+Map 5x7, period: 17432
+0, 4, 0
+Map 5x8, period: 15800
+0, 4, 0
+Map 5x9, period: 174320
+0, 8, 0
+Map 5x10, period: 1089044
+0, 1, 0
+Map 5x11, period: 5706122
+0, 10, 0
+Map 5x12, period: 36409444
+0, 8, 0
+Map 5x13, period: 67369382
+0, 8, 0
+Map 5x14, period: 311304720
+0, 11, 0
+Map 5x15, period: 1078079138
+Map 5x16, position: 0, 6, 0, period: 7937081572
+Map 5x17, position: 0, 5, 0, period: 15055046252
+Map 5x18, position: 0, 0, 0, period: 146191703400
+Map 5x19, position: 0, 9, 0, period: 554081969798
+Map 6x1, period: 12
+Map 6x2, period: 16
+Map 6x3, period: 196
+Map 6x4, period: 696
+Map 6x5, period: 16804
+Map 6x6, period: 4592
+Map 6x7, period: 714592
+Map 6x8, period: 147424
+Map 6x9, period: 8066144
+Map 6x10, period: 10426496
+Map 6x11, period: 12407368
+Map 6x12, period: 89938544
+Map 6x13, period: 1874869096
+Map 6x14, period: 3134995080
+Map 6x15, position: 0, 0, 0, period: 25770205108
+Map 6x16, position: 0, 0, 0, period: 150244377600
+Map 6x17, position: 0, 0, 0, period: 406904645548
+Map 7x1, period: 14
+Map 7x2, period: 16
+Map 7x3, period: 208
+0, 2, 0
+Map 7x4, period: 1724
+0, 3, 0
+Map 7x5, period: 68860
+0, 2, 0
+Map 7x6, period: 98912
+0, 3, 0
+Map 7x7, period: 9166514
+Map 7x8, period: 10003800
+0, 1, 0
+Map 7x9, period: 278711246
+0, 2, 0
+Map 7x10, period: 421554140
+0, 5, 0
+Map 7x11, period: 743930286
+0, 8, 0
+Map 7x12, period: 1555327928
+Map 7x13, position: 0, 8, 0, period: 74076471182
+Map 7x14, position: 0, 2, 0, period: 276129430192
+Map 8x1, period: 16
+Map 8x2, period: 16
+Map 8x3, period: 3008
+Map 8x4, period: 2336
+Map 8x5, period: 606688
+Map 8x6, period: 507056
+Map 8x7, period: 34882576
+Map 8x8, period: 11502464
+Map 8x9, period: 3586271200
+Map 8x10, period: 2084996112
+Map 8x11, position: 0, 0, 0, period: 14626950624
+Map 8x12, position: 0, 0, 0, period: 85363123552
+Map 9x1, period: 18
+Map 9x2, period: 16
+Map 9x3, period: 6064
+Map 9x4, period: 13360
+0, 3, 0
+Map 9x5, period: 2997634
+Map 9x6, period: 1824688
+Map 9x7, period: 299407462
+0, 4, 0
+Map 9x8, period: 817028832
+Map 9x9, position: 0, 8, 0, period: 102117469222
+Map 9x10, position: 0, 4, 0, period: 74929451984
+Map 10x1, period: 20
+Map 10x2, period: 16
+Map 10x3, period: 304
+Map 10x4, period: 2608
+Map 10x5, period: 1544720
+Map 10x6, period: 2045304
+Map 10x7, period: 58495320
+Map 10x8, period: 4622916480
+Map 10x9, position: 0, 0, 0, period: 133648022836
+Map 10x10, position: 0, 0, 0, period: 150192928160
+Map 11x1, period: 22
+Map 11x2, period: 16
+0, 2, 0
+Map 11x3, period: 23086
+Map 11x4, period: 171296
+0, 2, 0
+Map 11x5, period: 33555146
+0, 2, 0
+Map 11x6, period: 8030504
+Map 11x7, position: 0, 0, 0, period: 17528302032
+Map 11x8, position: 0, 4, 0, period: 28041851784
+Map 12x1, period: 24
+Map 12x2, period: 16
+Map 12x3, period: 246400
+Map 12x4, period: 78672
+Map 12x5, period: 19029864
+Map 12x6, period: 367522560
+Map 12x7, position: 0, 0, 0, period: 255750389816
+Map 12x8, position: 0, 0, 0, period: 283557331968
+Map 13x1, period: 26
+Map 13x2, period: 16
+Map 13x3, period: 400
+Map 13x4, period: 206504
+0, 3, 0
+Map 13x5, period: 681073734
+Map 13x6, period: 1679162720
+Map 13x7, position: 0, 4, 0, period: 527212155760
+Map 14x1, period: 28
+Map 14x2, period: 16
+Map 14x3, period: 29404
+Map 14x4, period: 1137192
+Map 14x5, period: 1260184496
+Map 14x6, period: 38401208
+2, 4, 2
+Map 14x7, period: -1
+Map 15x1, period: 30
+Map 15x2, period: 16
+0, 2, 0
+Map 15x3, period: 455518
+Map 15x4, period: 71720
+0, 4, 0
+Map 15x5, period: 2974356306
+Map 15x6, position: 0, 2, 0, period: 13951927360
+Map 16x1, period: 32
+Map 16x2, period: 16
+Map 16x3, period: 496
+Map 16x4, period: 13988800
+Map 16x5, position: 0, 0, 0, period: 108815220032
+Map 16x6, position: 0, 0, 0, period: 6041675312
+Map 17x1, period: 34
+Map 17x2, period: 16
+0, 2, 0
+Map 17x3, period: 3154588
+Map 17x4, period: 9123112
+0, 4, 2
+Map 17x5, period: -1
+Map 18x1, period: 36
+Map 18x2, period: 16
+Map 18x3, period: 10930388
+Map 18x4, period: 55697168
+0, 2, 0
+Map 18x5, period: -1
+Map 19x1, period: 38
+Map 19x2, period: 16
+Map 19x3, period: 592
+Map 19x4, period: 17539688
+10, 1, 2
+Map 19x5, period: -1
+Map 20x1, period: 40
+Map 20x2, period: 16
+Map 20x3, period: 30519840
+Map 20x4, period: 30316336
+14, 0, 0
+Map 20x5, period: -1
+Map 21x1, period: 42
+Map 21x2, period: 16
+Map 21x3, period: 70930202
+Map 21x4, period: 53095848
+13, 2, 0
+Map 21x5, period: -1
+Map 22x1, period: 44
+Map 22x2, period: 16
+Map 22x3, period: 688
+Map 22x4, period: 1623249080
+18, 0, 2
+Map 22x5, period: -1
+Map 23x1, period: 46
+Map 23x2, period: 16
+0, 2, 0
+Map 23x3, period: 20542756
+Map 23x4, period: 1786427800
+22, 2, 2
+Map 23x5, period: -1
+Map 24x1, period: 48
+Map 24x2, period: 16
+Map 24x3, period: 477526912
+Map 24x4, period: 3410058784
+14, 4, 0
+Map 24x5, period: -1
+Map 25x1, period: 50
+Map 25x2, period: 16
+Map 25x3, period: 784
+0, 2, 0
+Map 25x4, period: -1
+Map 26x1, period: 52
+Map 26x2, period: 16
+Map 26x3, period: 363496056
+Map 26x4, period: -1
+Map 27x1, period: 54
+Map 27x2, period: 16
+Map 27x3, period: -1
+Map 28x1, period: 56
+Map 28x2, period: 16
+Map 28x3, period: 880
+Map 28x4, period: -1
+Map 29x1, period: 58
+Map 29x2, period: 16
+13, 1, 2
+Map 29x3, period: -1
+Map 30x1, period: 60
+Map 30x2, period: 16
+28, 0, 0
+Map 30x3, period: -1
+Map 31x1, period: 62
+Map 31x2, period: 16
+Map 31x3, period: 976
+0, 2, 2
+Map 31x4, period: -1
+Map 32x1, period: 64
+Map 32x2, period: 16
+22, 1, 2
+Map 32x3, period: -1
+Map 33x1, period: 66
+Map 33x2, period: 16
+30, 1, 0
+Map 33x3, period: -1
+Map 34x1, period: 68
+Map 34x2, period: 16
+Map 34x3, period: 1072
+0, 2, 2
+Map 34x4, period: -1
+Map 35x1, period: 70
+Map 35x2, period: 16
+26, 0, 2
+Map 35x3, period: -1
+Map 36x1, period: 72
+Map 36x2, period: 16
+0, 1, 2
+Map 36x3, period: -1
+Map 37x1, period: 74
+Map 37x2, period: 16
+Map 37x3, period: 1168
+35, 2, 2
+Map 37x4, period: -1
+Map 38x1, period: 76
+Map 38x2, period: 16
+22, 0, 2
+Map 38x3, period: -1
+Map 39x1, period: 78
+Map 39x2, period: 16
+4, 2, 2
+Map 39x3, period: -1
+Map 40x1, period: 80
+Map 40x2, period: 16
+Map 40x3, period: 1264
