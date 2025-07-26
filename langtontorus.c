@@ -40,6 +40,11 @@ long long period(int m, int n) {
 		for(int i = 0; i < n; i++) fprintf(file, "%lld ", map[i]);
 		fprintf(file,"\n");
 		fclose(file);
+		if(totalit % 1000000000000L == 0) {
+			char filecheckpoint[200];
+			sprintf(filecheckpoint, "cp %s %s.%d",filename,filename,totalit/1000000000000L);
+			system(filecheckpoint);
+		}
 		printf("%lld iterations\r",totalit);
 		fflush(stdout);
 		if(mapzero == 0) break;
@@ -50,7 +55,7 @@ long long period(int m, int n) {
 
 int main(int argc, char* argv[]) {
 	if(argc == 3) period(atoi(argv[1]),atoi(argv[2]));
-	else
+	else if(argc == 1)
 	for(int m = 1; m <= 64; m++) {
 		for(int n = 1; n <= 64; n++) {
 			long long it = period(m,n);
