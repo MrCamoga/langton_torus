@@ -408,6 +408,7 @@ Map 5x16, position: 0, 6, 0, period: 7937081572
 Map 5x17, position: 0, 5, 0, period: 15055046252
 Map 5x18, position: 0, 0, 0, period: 146191703400
 Map 5x19, position: 0, 9, 0, period: 554081969798
+Map 5x20, position: 0, 6, 0, period: 562731443148
 Map 6x1, period: 12
 Map 6x2, period: 16
 Map 6x3, period: 196
@@ -425,6 +426,7 @@ Map 6x14, period: 3134995080
 Map 6x15, position: 0, 0, 0, period: 25770205108
 Map 6x16, position: 0, 0, 0, period: 150244377600
 Map 6x17, position: 0, 0, 0, period: 406904645548
+Map 6x18, position: 0, 0, 0, period: 872886860320
 Map 7x1, period: 14
 Map 7x2, period: 16
 Map 7x3, period: 208
@@ -471,6 +473,7 @@ Map 9x7, period: 299407462
 Map 9x8, period: 817028832
 Map 9x9, position: 0, 8, 0, period: 102117469222
 Map 9x10, position: 0, 4, 0, period: 74929451984
+Map 9x11, position: 0, 8, 0, period: 16137819532920
 Map 10x1, period: 20
 Map 10x2, period: 16
 Map 10x3, period: 304
@@ -492,6 +495,8 @@ Map 11x5, period: 33555146
 Map 11x6, period: 8030504
 Map 11x7, position: 0, 0, 0, period: 17528302032
 Map 11x8, position: 0, 4, 0, period: 28041851784
+Map 11x9, position: 0, 4, 0, period: 5123840063762
+Map 11x10, position: 0, 4, 0, period: 17234336729272
 Map 12x1, period: 24
 Map 12x2, period: 16
 Map 12x3, period: 246400
@@ -514,8 +519,7 @@ Map 14x3, period: 29404
 Map 14x4, period: 1137192
 Map 14x5, period: 1260184496
 Map 14x6, period: 38401208
-2, 4, 2
-Map 14x7, period: -1
+Map 14x7, position: 0, 0, 0, period: 4490430260152
 Map 15x1, period: 30
 Map 15x2, period: 16
 0, 2, 0
@@ -535,8 +539,6 @@ Map 17x2, period: 16
 0, 2, 0
 Map 17x3, period: 3154588
 Map 17x4, period: 9123112
-0, 4, 2
-Map 17x5, period: -1
 Map 18x1, period: 36
 Map 18x2, period: 16
 Map 18x3, period: 10930388
