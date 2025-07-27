@@ -25,7 +25,7 @@ long long period(int m, int n) {
 			if(state) dir = (dir+1)&3;
 			else dir = (dir-1)&3;
 			map[y] ^= (1L<<x);
-			mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
+			//mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
 			x += dirx[dir];
 			if(x >= m) x-=m;
 
