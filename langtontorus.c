@@ -28,9 +28,15 @@ long long period(int m, int n) {
 			mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
 			x += dirx[dir];
 			if(x >= m) x-=m;
+
+			state = (map[y] >> x)&1;
+			if(state) dir = (dir+1)&3;
+			else dir = (dir-1)&3;
+			map[y] ^= (1L<<x);
+			mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
 			y += diry[dir];
 			if(y >= n) y-=n;
-			saveit++;
+			saveit+=2;
 		} while(saveit < 10000000000L && (mapzero != 0));
 		totalit += saveit;
 		saveit = 0;
