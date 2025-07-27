@@ -44,7 +44,6 @@ long long period(int m, int n) {
 		FILE *file = fopen(filename,"w+");
 		fprintf(file, "%d %d %d %lld %d\n", x, y, dir, totalit, mapzero);
 		for(int i = 0; i < n; i++) fprintf(file, "%lld ", map[i]);
-		fprintf(file,"\n");
 		fclose(file);
 		if(totalit % 1000000000000L == 0) {
 			char filecheckpoint[200];
