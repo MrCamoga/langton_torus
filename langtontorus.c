@@ -58,6 +58,7 @@ long long period(int m, int n) {
 		if(mapzero == 0) break;
 	}
 	printf("Map %dx%d, position: %d, %d, %d, period: %lld, real period: %lld\n",m,n,x,y,dir,totalit,totalit*order(y,n));
+	free(map);
 	return totalit;
 }
 
