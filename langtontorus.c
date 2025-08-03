@@ -1,13 +1,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int order(int k, int n) {
+	int o = 0;
+	int r = 0;
+	do {
+		r += k;
+		if(r >= n) r-=n;
+		o++;
+	} while(r != 0);
+	return o;
+}
+
 long long period(int m, int n) {
-	int dir = 0;
 	long long *map = calloc(n, sizeof(long long));
 	int x = 0;
 	int y = 0;
-	int dirx[] = {0,1,0,m-1};
-	int diry[] = {n-1,0,1,0};
+	int dir = 0;
 	long long totalit = 0;
 	long long mapzero = 0;
 	long long saveit = 0;
@@ -21,23 +30,17 @@ long long period(int m, int n) {
 	}
 	while(1) {
 		do {
-			int state = (map[y] >> x)&1;
-			if(state) dir = (dir+1)&3;
-			else dir = (dir-1)&3;
+			if(!(map[y]&(1L<<x))) dir ^= 1;
 			map[y] ^= (1L<<x);
-			//mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
-			x += dirx[dir];
+			x += dir ? m-1:1;
 			if(x >= m) x-=m;
-
-			state = (map[y] >> x)&1;
-			if(state) dir = (dir+1)&3;
-			else dir = (dir-1)&3;
+			if(map[y]&(1L<<x)) dir ^= 1;
 			map[y] ^= (1L<<x);
 			mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
-			y += diry[dir];
+			y += dir ? 1:n-1;
 			if(y >= n) y-=n;
 			saveit+=2;
-		} while(saveit < 10000000000L && (mapzero != 0));
+		} while(mapzero && saveit < 10000000000L);
 		totalit += saveit;
 		saveit = 0;
 
@@ -54,7 +57,7 @@ long long period(int m, int n) {
 		fflush(stdout);
 		if(mapzero == 0) break;
 	}
-	printf("Map %dx%d, position: %d, %d, %d, period: %lld\n",m,n,x,y,dir,totalit);
+	printf("Map %dx%d, position: %d, %d, %d, period: %lld, real period: %lld\n",m,n,x,y,dir,totalit,totalit*order(y,n));
 	return totalit;
 }
 
