@@ -30,13 +30,14 @@ long long period(int m, int n) {
 	}
 	while(1) {
 		do {
-			if(!(map[y]&(1L<<x))) dir ^= 1;
-			map[y] ^= (1L<<x);
+			dir ^= !(map[y]&(1ULL<<x));
+			map[y] ^= 1ULL<<x;
 			x += dir ? m-1:1;
 			if(x >= m) x-=m;
-			if(map[y]&(1L<<x)) dir ^= 1;
-			map[y] ^= (1L<<x);
-			mapzero = (mapzero & ~(1L << y)) | (((long long)(map[y] != 0)) << y);
+			dir ^= !!(map[y]&(1ULL<<x));
+			map[y] ^= 1ULL<<x;
+			if(map[y]) mapzero |= 1ULL << y;
+			else mapzero &= ~(1ULL << y);
 			y += dir ? 1:n-1;
 			if(y >= n) y-=n;
 			saveit+=2;
@@ -68,7 +69,7 @@ int main(int argc, char* argv[]) {
 	for(int m = 1; m <= 64; m++) {
 		for(int n = 1; n <= 64; n++) {
 			long long it = period(m,n);
-			if(it > 1000000000000L) break;
+			if(it > 10000000000L) break;
 		}
 	}
 	return 0;
